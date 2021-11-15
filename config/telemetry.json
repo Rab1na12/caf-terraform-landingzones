@@ -1,0 +1,20 @@
+{
+  "customerUsageAttribution": {
+    "enabled": true,
+    "modules": {
+      "managementGroups": "ca4078f8-9bc4-471b-ab5b-3af6b86a42c8",
+      "policy": "ca4078f8-9bc4-471b-ab5b-3af6b86a42c8",
+      "roles": "ca4078f8-9bc4-471b-ab5b-3af6b86a42c8",
+      "logging": "ca4078f8-9bc4-471b-ab5b-3af6b86a42c8",
+      "networking": {
+        "nvaFortinet": "ca4078f8-9bc4-471b-ab5b-3af6b86a42c8",
+        "azureFirewall": "ca4078f8-9bc4-471b-ab5b-3af6b86a42c8"
+      },
+      "archetypes": {
+        "genericSubscription": "ca4078f8-9bc4-471b-ab5b-3af6b86a42c8",
+        "machineLearning": "ca4078f8-9bc4-471b-ab5b-3af6b86a42c8",
+        "healthcare": "ca4078f8-9bc4-471b-ab5b-3af6b86a42c8"
+      }
+    }
+  }
+}
